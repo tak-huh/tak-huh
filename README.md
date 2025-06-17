@@ -1,4 +1,4 @@
-# Backend Developer in Japan👋
+# Data Engineer in Japan👋
 ### Just 32 years old 
 ### Feel free to contact me anytime!👍
 #
@@ -7,29 +7,29 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tak-huh&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tak-huh&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!--
 [![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
 
 
 # NOW TRAINING
 
 <p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="https://twitter.com/[009cd1]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[009cd1]" height="30" width="40" /></a>
 <a href="[009cd1.eye@gmail.com]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[009cd1.eye@gmail.com]"/></a>
 </p>
-
+-->
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
-
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,aws,py" /> <br /><br />
+<!--
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
-  
+-->  
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=blender,tensorflow,aws" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
