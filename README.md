@@ -29,7 +29,7 @@
 -->  
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=blender,tensorflow,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=blender,docker,tensorflow,aws" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
