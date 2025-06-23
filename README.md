@@ -22,16 +22,18 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,aws,py" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,py,mysql,aws" /> <br /><br />
 <!--
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
 -->  
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=blender,docker,tensorflow,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,tensorflow,pytorch,aws" /> <br /><br />
 
+# PASTIME
 
+<img src="https://skillicons.dev/icons?i=blender" /> <br /><br />
 <!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br><br>
